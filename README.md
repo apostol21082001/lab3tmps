@@ -174,7 +174,7 @@ Un exemplu de problemă în care acest model ar putea fi util:
 
 La un moment dat, decideți să îmbunătățiți aplicația utilizând o bibliotecă de analiză terță parte. Dar aici este problema - biblioteca acceptă doar formatul de date JSON, care este incompatibil cu aplicația dvs.
 
-![Adapter](https://refactoring.guru/images/patterns/diagrams/adapter/problem-2x.png)
+![Adapter](https://refactoring.guru/images/patterns/diagrams/adapter/problem-en-2x.png)
 
 Puteți rescrie biblioteca pentru a accepta formatul XML. Dar mai întâi, poate rupe codul existent care depinde deja de bibliotecă. Și în al doilea rând, este posibil să nu aveți acces la codul sursă.
 
